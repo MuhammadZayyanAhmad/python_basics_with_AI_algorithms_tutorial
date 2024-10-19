@@ -13,8 +13,7 @@ Welcome to the **Python Development and AI Algorithms Notebook**! This comprehen
 
 2. [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
    - Classes and Objects
-   - Inheritance and Polymorphism
-   - Encapsulation
+   - Inheritance
 
 3. [Data Structures](#data-structures)
    - Lists
